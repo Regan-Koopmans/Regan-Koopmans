@@ -8,7 +8,8 @@ Greetings! I am a software engineer based in **Amsterdam, North-Holland**.
 
 My interests include:
 
-- Distributed computing
-- Logistics
-- Functional and logic programming
 - Low-level architecture and computational primitives
+- Logistics and optimisation
+- Distributed computing
+- Functional and logic programming
+
