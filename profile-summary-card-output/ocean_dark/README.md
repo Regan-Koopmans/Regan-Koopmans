@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Regan-Koopmans/Regan-Koopmans/master/profile-summary-card-output/ocean_dark/4-productive-time.svg)
+```
+
+    
